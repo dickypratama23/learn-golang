@@ -12,7 +12,7 @@ func main() {
 	fisrtName = "Pratama2" // assign new value
 	lastName = "Dicky2"    // assign new value
 
-	fmt.Print("hallo ", fisrtName, lastName, "!\n")
+	fmt.Print("hallo ", fisrtName, lastName, age, "!\n")
 
-	//age = 14 // can't assign new value
+	//age = 14 // can't assign new value (constant value)
 }
